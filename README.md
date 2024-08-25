@@ -1,1 +1,2 @@
 # resin-github-page
+redeploy
